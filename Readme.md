@@ -116,7 +116,7 @@ The project *"AI-Powered Real-Time Interview Coach"* is an innovative virtual pl
 - POST /api/v1/questions/generate-questions: Generate questions for a quiz
 - POST /api/v1/questions/chat: Interact with AI chatbot
   
-## 😎 Members of our Team Diamond 👥
+## 😎 Members of our Team HackVentures👥
 - *Palak* - [@Pearl276](https://github.com/Pearl276)
 - *Khushi Verma* - [@KhushiVerma021](https://github.com/KhushiVerma021)
 - *Kashish Chaudhary*  - [@kashish012-c](https://github.com/kashish012-c)
